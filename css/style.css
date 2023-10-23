@@ -1,0 +1,18 @@
+div {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: center;
+}
+
+.pierwszy {
+    background-color: cornflowerblue;
+    border-radius: 50%;
+}
+
+.drugi {
+    background-color: darkolivegreen;
+    border-bottom-left-radius: 30px;
+}
